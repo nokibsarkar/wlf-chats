@@ -8,38 +8,17 @@
     "quest-1": {
       "reply": "You can participate in the contest by submitting your folklore photos on the website.",
       "buttons": [
-        {
-          "id": "quest-2",
-          "question": "Hslkdjslkd.s"
-        },
-        {
-          "id": "quest-3",
-          "question": "Hslkdjssldkjl"
-        }
+         "quest-1", "quest-2"
       ]
     },
     "quest-2": {
       "reply": "You can contribute to the project by submitting your folklore photos on the website.",
       "buttons": [
-        {
-          "id": "quest-1",
-          "question": "Hslkdjslkd.s"
-        },
-        {
-          "id": "quest-3",
-          "question": "Hslkdjssldkjl"
-        }
+        "quest-1", "quest-2"
       ]
     }
   },
   "intialButtons": [
-    {
-      "id": "quest-1",
-      "question": "How can I participate in the contest?"
-    },
-    {
-      "id": "quest-2",
-      "question": "How can I contribute to the project?"
-    }
+     "quest-1", "quest-2"
   ]
 }
