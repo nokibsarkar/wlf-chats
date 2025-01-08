@@ -1,1 +1,45 @@
-{"questions":{"quest-1":"How can I participate in the contest?","quest-2":"How can I contribute to the project?","quest-3":"How can I volunteer for the project?"},"replies":{"quest-1":{"reply":"You can participate in the contest by submitting your folklore photos on the website.","buttons":[{"id":"quest-2","question":"Hslkdjslkd.s"},{"id":"quest-3","question":"Hslkdjssldkjl"}]},"quest-2":{"reply":"You can contribute to the project by submitting your folklore photos on the website.","buttons":[{"id":"quest-1","question":"Hslkdjslkd.s"},{"id":"quest-3","question":"Hslkdjssldkjl"}]}},"intialButtons":[{"id":"quest-1","question":"How can I participate in the contest?"},{"id":"quest-2","question":"How can I contribute to the project?"}]}
+{
+  "questions": {
+    "quest-1": "How can I participate in the contest?",
+    "quest-2": "How can I contribute to the project?",
+    "quest-3": "How can I volunteer for the project?"
+  },
+  "replies": {
+    "quest-1": {
+      "reply": "You can participate in the contest by submitting your folklore photos on the website.",
+      "buttons": [
+        {
+          "id": "quest-2",
+          "question": "Hslkdjslkd.s"
+        },
+        {
+          "id": "quest-3",
+          "question": "Hslkdjssldkjl"
+        }
+      ]
+    },
+    "quest-2": {
+      "reply": "You can contribute to the project by submitting your folklore photos on the website.",
+      "buttons": [
+        {
+          "id": "quest-1",
+          "question": "Hslkdjslkd.s"
+        },
+        {
+          "id": "quest-3",
+          "question": "Hslkdjssldkjl"
+        }
+      ]
+    }
+  },
+  "intialButtons": [
+    {
+      "id": "quest-1",
+      "question": "How can I participate in the contest?"
+    },
+    {
+      "id": "quest-2",
+      "question": "How can I contribute to the project?"
+    }
+  ]
+}
