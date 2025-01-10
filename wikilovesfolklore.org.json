@@ -6,7 +6,7 @@
   },
   "replies": {
     "quest-1": {
-      "reply": "You can participate in the contest by submitting your folklore photos on the website. To Know more, please visit <a href=\"https://wikilovesfolklore.org\">this link</a>",
+      "reply": "You can participate in the contest by submitting your folklore photos on the website. To Know more, please <a href=\"/participate/\">click to participate</a>",
       "buttons": [
          "quest-1", "quest-2"
       ]
